@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq < 
+sort $1 | uniq 
