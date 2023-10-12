@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq < | tr -d "\n"
+uniq < 
