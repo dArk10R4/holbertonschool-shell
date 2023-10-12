@@ -1,2 +1,2 @@
-#!/bin/bash
-sort $1 | uniq 
+\0;10;1c#!/bin/bash
+sort $1 | uniq -u
