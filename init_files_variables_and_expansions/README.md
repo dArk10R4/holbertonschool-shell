@@ -27,3 +27,5 @@ Convert binary to decimal
 Prints combination of letters
 ## 13-print_float
 Displays num with to decimal points
+## 14-decimal_to_hexadecimal
+Converts decimal to hexadecimal
