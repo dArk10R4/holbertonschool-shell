@@ -7,3 +7,5 @@ says hello to current user
 Add /action to path
 ## 3-paths 
 Prints number of directory in path variable
+## 4-global_variables
+Prints global variables
