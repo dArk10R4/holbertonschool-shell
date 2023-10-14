@@ -17,3 +17,5 @@ Creates local variable
 Creates global variable
 ## 8-true_knowledge
 Add 128 to TRUEKNOWLADGE
+## 9-duvude_and_rule
+Divide POWER to DIVIDE
