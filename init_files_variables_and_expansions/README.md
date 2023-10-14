@@ -15,3 +15,5 @@ Lists all local variables and environment variables, and functions.
 Creates local variable
 ## 7-create_global_variable
 Creates global variable
+## 8-true_knowledge
+Add 128 to TRUEKNOWLADGE
