@@ -23,3 +23,5 @@ Divide POWER to DIVIDE
 Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 ## 11-binary_to_decimal
 Convert binary to decimal
+## 12-combinations
+Prints combination of letters
