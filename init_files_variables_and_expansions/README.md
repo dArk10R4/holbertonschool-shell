@@ -19,3 +19,5 @@ Creates global variable
 Add 128 to TRUEKNOWLADGE
 ## 9-duvude_and_rule
 Divide POWER to DIVIDE
+## 10-love_exponent_breath
+Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
