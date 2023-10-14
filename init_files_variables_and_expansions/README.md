@@ -11,3 +11,5 @@ Prints number of directory in path variable
 Prints global variables
 ## 5-local_variables
 Lists all local variables and environment variables, and functions.
+## 6-create_local_variable
+Creates local variable
