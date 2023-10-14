@@ -5,3 +5,5 @@ creates ls alias for removing all
 says hello to current user
 ## 2-path
 Add /action to path
+## 3-paths 
+Prints number of directory in path variable
