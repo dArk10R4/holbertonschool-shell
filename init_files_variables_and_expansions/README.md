@@ -25,3 +25,5 @@ Love is anterior to life, posterior to death, initial of creation, and the expon
 Convert binary to decimal
 ## 12-combinations
 Prints combination of letters
+## 13-print_float
+Displays num with to decimal points
