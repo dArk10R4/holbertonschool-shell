@@ -9,3 +9,5 @@ Add /action to path
 Prints number of directory in path variable
 ## 4-global_variables
 Prints global variables
+## 5-local_variables
+Lists all local variables and environment variables, and functions.
